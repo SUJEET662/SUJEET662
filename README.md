@@ -1,12 +1,26 @@
 # 💫 About Me:
-👨‍💻 Passionate about technology and problem-solving  
-🚀 Currently pursuing BTech in Computer Science  
-📚 Always eager to learn something new every day  
-💡 Exploring the world of development, DSA, and AI/ML  
-🎯 Focused on improving my coding skills and building impactful projects  
-🔥 Excited to collaborate on open-source and hackathons  
-🎨 I also enjoy working with design tools like Photoshop & Canva  
-📩 Feel free to connect with me!
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px">
+</p>
+
+## 👋 Hi, I'm **Sujeet Yadav**  
+
+👨‍💻 Passionate about **technology and problem-solving**  
+🚀 Currently pursuing **BTech in Computer Science**  
+📚 Always eager to **learn something new every day**  
+💡 Exploring **Development, DSA, and AI/ML**  
+🎯 Focused on **improving coding skills and building impactful projects**  
+🔥 Excited to **collaborate on open-source and hackathons**  
+🎨 Love working with **design tools like Photoshop & Canva**  
+📩 **Feel free to connect with me!**  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Hi+there!+I'm+Sujeet+Yadav;Aspiring+Software+Developer!;Open+Source+Contributor!;Passionate+about+Tech+%26+Innovation!" alt="Typing SVG" />
+</p>
+
+
 
 
 
