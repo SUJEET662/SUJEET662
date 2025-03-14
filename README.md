@@ -1,12 +1,20 @@
 # 💫 About Me:
-🚀 Currently a BTech CSE Student<br>📚 Trying to learn something new every day<br>🔥 Excited to explore and grow in tech!
+👨‍💻 Passionate about technology and problem-solving  
+🚀 Currently pursuing BTech in Computer Science  
+📚 Always eager to learn something new every day  
+💡 Exploring the world of development, DSA, and AI/ML  
+🎯 Focused on improving my coding skills and building impactful projects  
+🔥 Excited to collaborate on open-source and hackathons  
+🎨 I also enjoy working with design tools like Photoshop & Canva  
+📩 Feel free to connect with me!
 
 
-## 🌐 Socials:
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sujeetyadav_._/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujeet-yadav-a9350326b/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mainsujeethoon/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/mainsujeethoon/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mainsujeethoon@gmail.com) 
 
 
